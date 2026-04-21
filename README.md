@@ -22,8 +22,5 @@ HTML Frontend
 1. `bash start.sh`
 2. Open `index.html` in browser
 
-Streamlit Frontend
-1. `bash start-streamlit.sh`
-2. Open http://localhost:8501
 
 🛡 SafeStay AI Core v2.3 · Gradient Forge
