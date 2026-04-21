@@ -18,11 +18,11 @@ safestay-combined/
 └── .env
 ```
 
-## 🚀 Option A — HTML Frontend (Recommended)
+HTML Frontend 
 1. `bash start.sh`
 2. Open `index.html` in browser
 
-## 🚀 Option B — Streamlit Frontend
+Streamlit Frontend
 1. `bash start-streamlit.sh`
 2. Open http://localhost:8501
 
